@@ -208,7 +208,7 @@ body {
     align-items:center;
 }
 
-.contact-info,
+.contact-text,
 .contact-form-box {
     background: white;
     padding: 40px;
@@ -216,7 +216,7 @@ body {
     width: 100%;
 }
 
-.contact-info {
+.contact-text {
     max-width: 450px;
 }
 
@@ -228,9 +228,6 @@ body {
     border: 1px solid #ddd;
     border-radius: 5px;
     font-family: inherit;
-}
-.contact-text {
-    max-width: 500px;
 }
 
 .form-row {
