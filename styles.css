@@ -1,5 +1,5 @@
 * {
-    margin: 5;
+    margin: 0;
     padding: 5;
     box-sizing: border-box;
 }
@@ -17,7 +17,7 @@ body {
 }
 
     .topnav a {
-        float: left;
+        float: right;
         color: #f2f2f2;
         text-align: center;
         padding: 14px 16px;
@@ -46,10 +46,10 @@ body {
 
 
 .hero-text {
-    text-align: center;
+    text-align: left;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 40%;
+    left: 1000%;
     transform: translate(-50%, -50%);
     color: white;
 }
