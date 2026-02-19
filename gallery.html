@@ -18,14 +18,73 @@
     <section class="gallery">
         <h2>Gallery</h2>
 
-        <div class="gallery-grid">
-            <img src="images/house.jpg" alt="House exterior">
-            <img src="images/master.jpg" alt="Master bedroom">
-            <img src="images/secondary.png" alt="Secondary bedroom">
-            <img src="images/kitchen.png" alt="Kitchen">
-            <img src="images/sittingroom.png" alt="Sitting room">
-            <img src="images/garden.png" alt="Garden">
-            <img src="images/bathroom.png" alt="Bathroom">
+        <div class="container">
+
+            <div class="mySlides">
+                <div class="numbertext">1 / 7</div>
+                <img src="images/house.jpg" style="width:100%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">2 / 7</div>
+                <img src="images/kitchen.png" style="width:100%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">3 / 7</div>
+                <img src="images/bathroom.png" style="width:100%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">4 / 7</div>
+                <img src="images/sittingroom.png" style="width:100%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">5 / 7</div>
+                <img src="images/garden.jpg" style="width:100%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">6 / 7</div>
+                <img src="images/master.jpg" style="width:100%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">7 / 7</div>
+                <img src="images/secondary.png" style="width:100%">
+            </div>
+
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+            <div class="caption-container">
+                <p id="caption"></p>
+            </div>
+
+            <div class="row">
+                <div class="column">
+                    <img class="demo cursor" src="images/house.jpg" style="width:100%" onclick="currentSlide(1)" alt="The House">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="images/kitchen.png" style="width:100%" onclick="currentSlide(2)" alt="The Kitchen">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="images/bathroom.png" style="width:100%" onclick="currentSlide(3)" alt="The Bathroom">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="images/sittingroom.png" style="width:100%" onclick="currentSlide(4)" alt="The Sittingroom">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="images/garden.jpg" style="width:100%" onclick="currentSlide(5)" alt="The Garden">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="images/master.jpg" style="width:100%" onclick="currentSlide(6)" alt="The Master Bedroom">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="images/secondary.png" style="width:100%" onclick="currentSlide(7)" alt="The Secondary Bedroom">
+                </div>
+            </div>
         </div>
     </section>
 
