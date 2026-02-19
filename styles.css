@@ -93,7 +93,7 @@ body {
 .intro-text {
     text-align: center;
     padding: 40px 8%;
-    font-size: 18px;
+    font-size: 10px;
 }
 
 
@@ -194,6 +194,7 @@ body {
 .about-tex {
     max-width: 500px;
 }
+
 
 
 .contact-section {
