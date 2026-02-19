@@ -176,9 +176,7 @@ body {
 
 .about-tex {
     display: flex;
-    gap: 60px;
     padding: 80px 8%;
-    align-items: center;
     position: relative;
 }
   
