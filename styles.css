@@ -342,3 +342,16 @@ footer {
     .demo:hover {
         opacity: 1;
     }
+
+.btn {
+    display: inline-block;
+    padding: 10px 25px;
+    background: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+    .btn:hover {
+        opacity: 0.8;
+    }
