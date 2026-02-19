@@ -96,7 +96,6 @@ body {
     padding: 60px 8%;
     text-align: center;
 }
-
     
 
 .gallery-grid {
@@ -266,6 +265,7 @@ footer {
     text-align: center;
     background-color: #333;
     border-top: 1px solid #ddd;
+    color: white;
 }
 
 
