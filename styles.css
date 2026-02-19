@@ -178,6 +178,7 @@ body {
     gap: 60px;
     padding: 80px 8%;
     align-items: center;
+    position:relative;
 }
 
 .about-banner img {
@@ -299,12 +300,12 @@ footer {
 .prev,
 .next {
     cursor: pointer;
-    position: absolute;
+    position: relative;
     top: 40%;
     width: auto;
     padding: 16px;
     margin-top: -50px;
-    color: white;
+    color: #ddd;
     font-weight: bold;
     font-size: 20px;
     border-radius: 0 3px 3px 0;
