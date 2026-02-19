@@ -185,12 +185,12 @@ body {
 .about-section {
     display: flex;
     gap: 60px;
-    padding: 5px;
+    padding: 80px 8%;
     align-items: center;
 }
 
 .about-banner img {
-    width: 100%;
+    width: 90%;
     height: 500px;
     border-radius: 10px;
 }
