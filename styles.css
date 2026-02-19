@@ -264,9 +264,10 @@ footer {
     margin-top: 60px;
     padding: 20px;
     text-align: center;
-    background-color: white;
+    background-color: #333;
     border-top: 1px solid #ddd;
 }
+
 
 @media (max-width: 900px) {
     .hero,
