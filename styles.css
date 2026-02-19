@@ -92,7 +92,7 @@ body {
 
 .intro-text {
     text-align: center;
-    padding: 40px 8%;
+    padding: 10px;
     font-size: 10px;
 }
 
@@ -149,6 +149,9 @@ body {
         object-fit: contain;
         margin-bottom: 10px;
     }
+.about-tex p{
+    gap:3px 5px;
+}
 
 .testimonials {
     padding: 60px 8%;
