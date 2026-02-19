@@ -361,3 +361,7 @@ footer {
     .demo:hover {
         opacity: 1;
     }
+.intro-text {
+    height: 200px;
+    width: 50%;
+}
