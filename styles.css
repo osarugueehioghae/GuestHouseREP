@@ -116,7 +116,7 @@ body {
             transform: scale(1.03);
         }
 
-.amenities h2 {
+.amenities {
     padding: 60px 8%;
     text-align: center;
 }
