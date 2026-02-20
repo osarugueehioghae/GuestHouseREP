@@ -334,7 +334,7 @@ footer {
         opacity: 0.8;
     }
 .map iframe {
-    width: 100%;
+    width: 90%;
     height: 400px;
     border-radius: 10px;
 }
