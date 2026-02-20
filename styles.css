@@ -250,9 +250,7 @@ footer {
 }
 
 .container {
-    position: relative;
     width: 65%;
-    padding: 80px 8%;
 }
 
 .mySlides {
@@ -271,7 +269,7 @@ footer {
     width: auto;
     padding: 16px;
     margin-top: -50px;
-    color: white;
+    color: #182c25;
     font-weight: bold;
     font-size: 20px;
     border-radius: 50%;
