@@ -250,7 +250,7 @@ footer {
 }
 
 .container {
-    width: 60%;
+    width: 55%;
     margin: 0 auto;
 }
 
@@ -269,7 +269,6 @@ footer {
     top: 40%;
     width: auto;
     padding: 16px;
-    margin-top: -50px;
     color: #182c25;
     font-weight: bold;
     font-size: 20px;
