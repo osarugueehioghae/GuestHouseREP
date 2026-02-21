@@ -188,11 +188,6 @@ body {
     font-family: inherit;
 }
 
-.form-row {
-    display: flex;
-    gap: 15px;
-}
-
     .form-row input {
         width: 50%;
     }
@@ -304,11 +299,6 @@ footer {
         opacity: 1;
     }
 
-lable{
-    display: block;
-    font-weight:bold;
-    margin-bottom:6px;
-}
 .btn {
     display: inline-block;
     padding: 10px 25px;
@@ -407,7 +397,7 @@ lable{
         width: 95%;
     }
     .column {
-        width: 16.60%; 
+        width: 16.666666667%; 
     }
     .map iframe {
         width: 100%;
