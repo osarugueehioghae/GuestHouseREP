@@ -277,14 +277,10 @@ footer {
 .caption-container {
     text-align: center;
     background-color: #2c4c3b;
-    padding: 2px 16px;
     color: white;
-    border-radius: 5px;
 }
  
-.row{
-    border-radius:20px;
-}
+
 .row:after {
     display: table;
     clear: both;
