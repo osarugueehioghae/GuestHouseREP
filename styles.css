@@ -304,6 +304,11 @@ footer {
         opacity: 1;
     }
 
+lable{
+    display: block;
+    font-weight:bold;
+    margin-bottom:6px;
+}
 .btn {
     display: inline-block;
     padding: 10px 25px;
