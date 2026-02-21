@@ -365,12 +365,11 @@ footer {
         }
 
    
-    .amenities,
     .testimonials,
     .gallery {
         padding: 30px 5%;
     }
-    .amenities-grid,
+   
     .testimonial-grid {
         flex-direction: column;
         gap: 20px;
