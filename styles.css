@@ -352,16 +352,6 @@ footer {
 }
 @media (max-width: 768px) {
 
-    .topnav {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 10px;
-    }
-        .topnav a:first-of-type {
-            margin-left: 0;
-        }
-
-
     .hero {
         height: 400px;
         padding: 30px 5%;
@@ -412,11 +402,11 @@ footer {
         width: 95%;
     }
     .column {
-        width: 50%; 
+        width: 100%; 
     }
     .map iframe {
         width: 100%;
         height: 300px;
-        padding: 0;
+        padding: 5px;
     }
 }
