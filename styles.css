@@ -235,7 +235,7 @@ footer {
 
 .mySlides {
     display: none;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 .cursor {
@@ -281,7 +281,10 @@ footer {
     color: white;
     border-radius: 5px;
 }
-
+ 
+.row{
+    border-radius:20px;
+}
 .row:after {
     display: table;
     clear: both;
@@ -290,7 +293,6 @@ footer {
 .column {
     float: left;
     width: 16.66%;
-    border-radius: 5px;
 }
 
 .demo {
@@ -377,7 +379,7 @@ footer {
         flex-direction: column;
         gap: 20px;
     }
-    .amenity,
+    
     .testimonial {
         width: 100%;
     }
